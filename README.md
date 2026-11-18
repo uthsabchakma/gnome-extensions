@@ -1,9 +1,14 @@
-these are my gnome extensions
+# Extensions
 
-1. whoami : showing the username on top left
-2. quick note : notes on the task bar
+My custom GNOME Shell extensions.
+Works on any Linux distro running GNOME 45 or newer.
 
-___
+| Extension | Description |
+|---|---|
+| [Show Username](01_whoami/) | Shows your username at the top left of the top bar |
+| [Quick Notes](02_quick_notes/) | A note icon on the top bar that opens a floating box to add, view and delete notes |
+
+See each extension's folder for install and usage instructions.
 
 ## License
 
