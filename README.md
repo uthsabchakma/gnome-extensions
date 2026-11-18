@@ -5,6 +5,3 @@ these are my gnome extensions
 
 ___
 
-Install/Uninstall:
-bash <name of the executable sh>           # install
-bash <name of the executable sh> --remove  # uninstall (your notes are kept)
