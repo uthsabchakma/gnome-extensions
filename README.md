@@ -5,3 +5,7 @@ these are my gnome extensions
 
 ___
 
+## License
+
+Licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later).
+See [LICENSE](LICENSE).
