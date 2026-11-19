@@ -93,5 +93,5 @@ fi
 echo "• Extension enabled"
 
 echo
-echo "✔ Done! Now LOG OUT and LOG BACK IN — your username will appear top-left."
+echo "Done! Now Log-Out and Log-Back IN — your username will appear top-left."
 echo "  (To undo later: bash whoami.sh --remove)"
