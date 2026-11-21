@@ -47,7 +47,7 @@ cat > "$EXT_DIR/metadata.json" <<EOF
   "uuid": "$UUID",
   "name": "Show Username",
   "description": "Shows the username on the left of the top bar",
-  "shell-version": ["45", "46", "47", "48", "49", "50", "$SHELL_MAJOR"]
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51", "$SHELL_MAJOR"]
 }
 EOF
 
